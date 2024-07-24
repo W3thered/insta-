@@ -112,3 +112,7 @@ display: inline-block;
 .contact:hover{
 	color: black;
 }
+  @media only screen and (max-width: 400px) {
+    #main-doc {
+      margin-left: -10px;
+    }
